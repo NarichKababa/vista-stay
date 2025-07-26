@@ -52,6 +52,14 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				hotel: {
+					luxury: 'hsl(var(--hotel-luxury))',
+					'luxury-foreground': 'hsl(var(--hotel-luxury-foreground))',
+					comfort: 'hsl(var(--hotel-comfort))',
+					'comfort-foreground': 'hsl(var(--hotel-comfort-foreground))',
+					rating: 'hsl(var(--hotel-rating))',
+					'rating-foreground': 'hsl(var(--hotel-rating-foreground))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
